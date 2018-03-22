@@ -9,5 +9,5 @@ For example:
 This program will loop through testing numbers for <???> and download it in the current directory.
 
 ## Running
-Simply edit the run() function to include the url and the appropriate range.
+Simply edit the run() function to include the url and the appropriate range.  
 Then run ```python brute_force_url.py```
