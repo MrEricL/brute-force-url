@@ -9,7 +9,7 @@ For example:
 This program will loop through testing numbers for <???> and download it in the current directory.
 
 ## Examples
-**Disclaimer**: This may not be allowed.
+**Disclaimer**: This may not be allowed.    
 Often times pages or pictures of a future release will be on a website, just obfuscated. You can use this to force download from a range of URLs.
 
 ## Running
